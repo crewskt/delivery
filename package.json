@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/leoolopes01/madrugas-burguer-whatsapp-bot#readme",
   "dependencies": {
+    "sulla": "^2.4.0",
     "venom-bot": "^3.0.14"
   }
 }
